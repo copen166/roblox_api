@@ -1,0 +1,16 @@
+{
+  "name": "roblox-api-proxy",
+  "version": "1.0.0",
+  "description": "Прокси-сервер для обхода блокировки Roblox-доменов в HttpService",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
