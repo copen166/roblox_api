@@ -1,16 +1,8 @@
 {
-  "name": "roblox-api-proxy",
+  "name": "roblox-api-proxy-vercel",
   "version": "1.0.0",
-  "description": "Прокси-сервер для обхода блокировки Roblox-доменов в HttpService",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "description": "Прокси для обхода блокировки Roblox-доменов в HttpService (деплой на Vercel)",
   "engines": {
     "node": ">=18"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "cors": "^2.8.5"
   }
 }
